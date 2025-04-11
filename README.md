@@ -2,7 +2,7 @@
 
 ## Changes in Northern Kentucky over the years
 
-A short paragraph describing the change that occurred in my area.
+These three maps show the different areas of Northern kentucky
 
 ![Caption of map](map.jpg)  
 _All of Northern Kentucky_
