@@ -4,10 +4,10 @@
 
 A short paragraph describing the change that occurred in my area.
 
-![Caption of map](map.jpg)  
+![Caption of map](NorthernKentucky1.jpg)  
 _All of Northern Kentucky_
 
-[Link to high-resolution version](hi-res.pdf)
+[Link to high-resolution version](NorthernKentucky1.pdf)
 
 ![Caption of map](map.jpg)  
 _Area of Union Kentucky_
