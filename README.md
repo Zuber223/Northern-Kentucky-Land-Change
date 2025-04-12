@@ -4,10 +4,10 @@
 
 These three maps show the different areas of Northern kentucky
 
-![Caption of map](Northern_Kentucky2.jpg) 
+![Caption of map](NorthernKentucky2.jpg) 
 _All of Northern Kentucky_
 
-[Link to high-resolution version](Northern_Kentucky2.pdf)
+[Link to high-resolution version](NorthernKentucky2.pdf)
 
 ![Caption of map](NorthernKentucky1.jpg)  
 _Area of Union Kentucky_
