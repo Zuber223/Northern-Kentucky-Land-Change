@@ -2,7 +2,7 @@
 
 ## Changes in Northern Kentucky over the years
 
-These three maps show the different areas of Northern kentucky
+These three maps show the different areas of Northern Kentucky. All of Northern Kentucky shows areas like covington, Newport, Union, and FLorence that had gone through revitalization and development over the years. Union, Kentucky showed mostly gorwth in new subdivisons being built. Florence, Kentucky showed mostly gorwth in new commercial development on Mall Road and Houston Road. I-75 and CVG airport had played a big part in the growrth of development in Northern Kentucky over the years.
 
 ![Caption of map](NorthernKentucky2.jpg) 
 _All of Northern Kentucky_
