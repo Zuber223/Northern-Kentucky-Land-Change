@@ -4,7 +4,7 @@
 
 These three maps show the different areas of Northern kentucky
 
-![Caption of map]([Northern_Kentucky2.jpg](https://github.com/Zuber223/Northern-Kentucky-Land-Change/blob/main/Northern%20Kentucky2.jpg))  
+![Caption of map](Northern_Kentucky2.jpg) 
 _All of Northern Kentucky_
 
 [Link to high-resolution version](Northern_Kentucky2.pdf)
